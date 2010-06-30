@@ -1,0 +1,12 @@
+Build.PL
+Changes
+lib/SDLx/TTF.pm
+lib/SDLx/TTF.xs
+MANIFEST			This list of files
+META.yml
+README
+src/ppport.h
+src/SFont.h
+t/001_load.t
+t/font.png
+typemap
